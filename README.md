@@ -12,6 +12,12 @@ This program implements a calculator which takes in positive and negative double
 ## Link To Code
 [Code](src)
 
+## Software:
+Installation instructions can be found ![here](link/link) for:
+- Eclipse
+- Java
+
+
 
 ## Features
 - Text Box
