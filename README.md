@@ -13,7 +13,7 @@ This program implements a calculator which takes in positive and negative double
 [Code](src)
 
 ## Software:
-Installation instructions can be found ![here](link/link) for:
+Installation instructions can be found [here](link/link) for:
 - Eclipse
 - Java
 
