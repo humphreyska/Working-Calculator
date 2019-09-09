@@ -28,8 +28,6 @@ Installation instructions can be found [here](link/link) for:
 6. The result will appear below text box
 7. Click clear to reset text box
 
-
-
 ## Features
 - Text Box
   - Input expression
@@ -41,3 +39,6 @@ Installation instructions can be found [here](link/link) for:
   - Displays the evaluated expression
 ### Calculator Display
 ![](READimage.png)
+
+## Contributions
+There are many possibilities of features that can be added to the working calculator project. If you would like to contribute to the code simply make a clean pull request. Your commit message should be detailed, so that others will understand the feature you have added. For more guidance on [clean pull requests](https://github.com/MarcDiethelm/contributing/blob/master/README.md)
