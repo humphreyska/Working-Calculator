@@ -18,15 +18,15 @@ Installation instructions can be found [here](link/link) for:
 - Java
 
 ## Instructions
-- Run Eclipse
-- Right click Working Calculator Project
-- Select “run as”
-- Select “java application”
-- Make window bigger to view entire application
-- Type expression into text box
-- Click calculate to evaluate the expression
-- The result will appear below text box
-- Click clear to reset text box
+1. Run Eclipse
+2. Right click Working Calculator Project
+  - Select “run as”
+  - Select “java application”
+3. Make window bigger to view entire application
+4. Type expression into text box
+5. Click calculate to evaluate the expression
+6. The result will appear below text box
+7. Click clear to reset text box
 
 
 
