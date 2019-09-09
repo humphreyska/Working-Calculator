@@ -17,6 +17,17 @@ Installation instructions can be found [here](link/link) for:
 - Eclipse
 - Java
 
+## Instructions
+- Run Eclipse
+- Right click Working Calculator Project
+- Select “run as”
+- Select “java application”
+- Make window bigger to view entire application
+- Type expression into text box
+- Click calculate to evaluate the expression
+- The result will appear below text box
+- Click clear to reset text box
+
 
 
 ## Features
