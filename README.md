@@ -40,5 +40,14 @@ Installation instructions can be found [here](link/link) for:
 ### Calculator Display
 ![](READimage.png)
 
-## Contributions
+## Contribute!
 There are an endless amount of features that can be added to this project. If you would like to contribute to this code simply make a [clean pull requests](https://github.com/MarcDiethelm/contributing/blob/master/README.md). Your commit message should be detailed, so that others will understand the feature you have added.
+
+## FAQ
+1. What software can I run this on?
+    - Technically any software that sufficiently runs java code
+    - For easy compatability use eclipse
+
+## Support
+
+## License
