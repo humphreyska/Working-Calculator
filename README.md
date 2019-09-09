@@ -14,10 +14,13 @@ This program implements a calculator which takes in positive and negative double
 
 
 ## Features
-- Text Box 
--- Type Expression
+- Text Box
+  - Input expression
 - Calculate Button
+  - Evaluates expression
 - Clear Button
+  - Resets text box
 - Result Label
+  - Displays the evaluated expression
 ### Calculator Display
 ![](READimage.png)
