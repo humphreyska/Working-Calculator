@@ -47,6 +47,9 @@ There are an endless amount of features that can be added to this project. If yo
 1. What software can I run this on?
     - Technically any software that sufficiently runs java code
     - For easy compatability use eclipse
+2. Can I run this on different platforms?
+    - Yes all software can be downloaded on Windows, MAC, or Linux
+    - There is installation instructions for each
 
 ## Support
 
