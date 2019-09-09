@@ -10,4 +10,4 @@ This program implements a calculator which takes in positive and negative double
 - for parenthesis ' ( ' ' ) '
 
 ## Calculator Display
-![Calculator Display](Pictures/1L Document.png)
+![Calculator Display](Pictures/1L_Document.png)
