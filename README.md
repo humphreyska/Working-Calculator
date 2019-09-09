@@ -10,7 +10,14 @@ This program implements a calculator which takes in positive and negative double
 - for parenthesis ' ( ' ' ) '
 
 ## Link To Code
-[CCode](src)
+[Code](src)
 
-## Calculator Display
+
+## Features
+- Text Box 
+-- Type Expression
+- Calculate Button
+- Clear Button
+- Result Label
+### Calculator Display
 ![](READimage.png)
