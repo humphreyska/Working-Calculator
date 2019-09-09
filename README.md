@@ -41,4 +41,4 @@ Installation instructions can be found [here](link/link) for:
 ![](READimage.png)
 
 ## Contributions
-There are many possibilities of features that can be added to the working calculator project. If you would like to contribute to the code simply make a clean pull request. Your commit message should be detailed, so that others will understand the feature you have added. For more guidance on [clean pull requests](https://github.com/MarcDiethelm/contributing/blob/master/README.md)
+There are an endless amount of features that can be added to this project. If you would like to contribute to this code simply make a [clean pull requests](https://github.com/MarcDiethelm/contributing/blob/master/README.md). Your commit message should be detailed, so that others will understand the feature you have added.
