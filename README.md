@@ -10,4 +10,4 @@ This program implements a calculator which takes in positive and negative double
 - for parenthesis ' ( ' ' ) '
 
 ## Calculator Display
-![|50x50](READimage.png)
+![|50x50, 20%](READimage.png)
