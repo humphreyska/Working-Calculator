@@ -20,8 +20,8 @@ Installation instructions can be found [here](link/link) for:
 ## Instructions
 1. Run Eclipse
 2. Right click Working Calculator Project
-  - Select “run as”
-  - Select “java application”
+    - Select “run as”
+    - Select “java application”
 3. Make window bigger to view entire application
 4. Type expression into text box
 5. Click calculate to evaluate the expression
