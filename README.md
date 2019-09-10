@@ -13,7 +13,7 @@ This program implements a calculator which takes in positive and negative double
 [Code](src)
 
 ## Software:
-Installation instructions can be found [here](link/link) for:
+Installation instructions can be found [here](https://humphreyska.github.io/Calculator/) for:
 - Eclipse
 - Java
 
@@ -46,7 +46,7 @@ There are an endless amount of features that can be added to this project. If yo
 ## FAQ
 1. What software can I run this on?
     - Technically any software that sufficiently runs java code
-    - For easy compatability use eclipse
+    - For easy compatability use [eclipse](https://www.eclipse.org/downloads/)
 2. Can I run this on different platforms?
     - Yes all software can be downloaded on Windows, MAC, or Linux
     - There is installation instructions for each
