@@ -52,11 +52,12 @@ There are an endless amount of features that can be added to this project. If yo
     - There is installation instructions for each
 
 ## Support
+Contact calulatorSupportTeam@gmail.com
 
 ## License
 MIT License
 
-Copyright (c) [2019] [Kaitlyn Humphreys]
+Copyright (c) [2019] [Kaitlyn Humphreys & Juliana Luczynski]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
