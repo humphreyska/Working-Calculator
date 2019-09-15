@@ -46,7 +46,7 @@ There are an endless amount of features that can be added to this project. If yo
 
 ## FAQ
 1. What software can I run this on?
-    - Technically any software that sufficiently runs java code
+    - Technically any software that sufficiently runs [java](https://www.oracle.com/java/technologies/javase-jsp-downloads.html) code
     - For easy compatability use [eclipse](https://www.eclipse.org/downloads/)
 2. Can I run this on different platforms?
     - Yes all software can be downloaded on Windows, MAC, or Linux
