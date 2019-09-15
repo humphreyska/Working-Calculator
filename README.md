@@ -5,7 +5,7 @@ This program implements a calculator which takes in positive and negative double
 ## Link To Code
 [Code](src)
 
-## Software:
+## Software Needed:
 Installation instructions can be found [here](https://humphreyska.github.io/Calculator/) for:
 - Eclipse
 - Java
