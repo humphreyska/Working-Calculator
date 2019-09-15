@@ -2,13 +2,6 @@
 
 This program implements a calculator which takes in positive and negative doubles and operands and then evaluates and displays the result.
 
-## The operators supported by the calculator are:
-- for addition ' + '
-- for subtraction ' - '
-- for multiplication ' * '
-- for division ' / '
-- for parenthesis ' ( ' ' ) '
-
 ## Link To Code
 [Code](src)
 
@@ -28,6 +21,13 @@ Installation instructions can be found [here](https://humphreyska.github.io/Calc
 6. The result will appear below text box
 7. Click clear to reset text box
 
+## The operators supported by the calculator are:
+- for addition ' + '
+- for subtraction ' - '
+- for multiplication ' * '
+- for division ' / '
+- for parenthesis ' ( ' ' ) '
+
 ## Features
 - Text Box
   - Input expression
@@ -37,6 +37,7 @@ Installation instructions can be found [here](https://humphreyska.github.io/Calc
   - Resets text box
 - Result Label
   - Displays the evaluated expression
+  
 ### Calculator Display
 ![](READimage.png)
 
@@ -49,7 +50,7 @@ There are an endless amount of features that can be added to this project. If yo
     - For easy compatability use [eclipse](https://www.eclipse.org/downloads/)
 2. Can I run this on different platforms?
     - Yes all software can be downloaded on Windows, MAC, or Linux
-    - There is installation instructions for each
+    - There are installation [instructions](https://humphreyska.github.io/Calculator/) for each
 
 ## Support
 Contact calulatorSupportTeam@gmail.com
