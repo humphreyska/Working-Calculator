@@ -1,6 +1,6 @@
 # Working-Calculator
 
-This program implements a calculator which takes in positive and negative doubles and operands and then evaluates and displays the result.
+This program implements a calculator which takes input of doubles and operands, outputs the evaluation, and displays the result to the screen.
 
 ## Link To Code
 [Code](src)
